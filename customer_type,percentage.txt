@@ -1,0 +1,5 @@
+customer_type,percentage
+High loyal,0.0364867330184663
+Low repeat,8.95749295603349
+Medium loyal,0.941560415948756
+One-time,90.0644598949993

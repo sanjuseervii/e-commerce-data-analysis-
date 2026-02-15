@@ -1,0 +1,11 @@
+seller_id,delivery_bucket,total_orders,good_reviews,bad_reviews,total_revenue
+56e361f411e38dcef17cdc2a3d99628b,Early,8,8,0,-658.55
+e8a85b5f3df47be0984c55fd4064dbb4,Slight Delay,2,2,0,-60.08
+034b9387752bfa309f350a70cd45ffa3,Early,8,8,0,-48.26
+ce616e1913288884e7742faac9d981db,Early,20,18,0,-47.69
+ef506c96320abeedfb894c34db06f478,Very Early,1,1,0,-40.01
+3d62f86afa7c73be2628a3be1423f5a0,Early,2,2,0,-30.42
+9d213f303afae4983637247556438ede,Early,3,3,0,-25.41
+43753b27d77860f1654aa72e251a7878,Very Late,1,1,0,-18.48
+85cc55e048b6bcc90c75afe7f0e72f72,Late,1,1,0,-17.15
+5566627eab3fe93fd6ee08798226101a,Early,5,4,0,-16.81

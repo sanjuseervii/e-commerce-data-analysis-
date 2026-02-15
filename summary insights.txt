@@ -1,0 +1,103 @@
+📦 ORDER PERFORMANCE ANALYSIS
+✅ Total Orders: 99,441
+
+Delivered: 96,476 → 97.02%
+Approved: 99,281 → 99.83%
+Purchased: 100%
+
+💡 Insight:
+
+Purchase to approval almost perfect.
+Delivery rate bhi strong (97%) — but 3% gap still exists (returns, cancellations, logistics issues).
+
+🚚 DELIVERY PERFORMANCE
+
+📊 Average Delivery Delay: -11.17 days
+Negative means → orders delivered before estimated date
+Min Delay: -146 days (extremely early)
+Max Delay: +188 days (extremely late)
+
+📦 Delivery Buckets:
+
+BucketOrdersEarly87,083Very Late6,286Slight Delay4,235Late1,733Very Early104
+
+💡 Insight:
+Majority deliveries are early (very good logistics).
+But ~8% orders are late/very late → this likely impacts bad reviews.
+🏪 SELLER ANALYSIS
+🔝 Top Sellers by Orders:
+6560211a19b4... → 2033 orders
+4a3ca9315b74... → 1987 orders
+1f50f920176f... → 1931 orders
+
+🔝 Top Revenue Sellers:
+4869f7a5dfa2... → 206K revenue
+53243585a1d6... → 200K revenue
+💡 Some sellers high revenue but not highest orders → means higher priced products.
+
+🛍️ TOP REVENUE CATEGORIES
+🥇 Watches & Gifts
+🥈 Health & Beauty
+🥉 Bed, Bath & Table
+🏅 Sports & Leisure
+💡 These are the most profitable segments.
+Low revenue categories like books, drinks, signaling etc → niche market.
+
+⭐ REVIEW ANALYSIS
+Total Reviews: 99,224
+⭐ 5 Star → 57,328
+⭐ 4 Star → 19,142
+⭐ 3 Star → 8,179
+⭐ 2 Star → 3,151
+⭐ 1 Star → 11,424
+
+
+📊 Average Rating: 4.08 / 5
+Sentiment Split:
+
+
+Good (4 & 5): 77.06%
+Neutral (3): 8.24%
+Bad (1 & 2): 14.68%
+
+⚠️ IMPORTANT BUSINESS INSIGHT
+Bad reviews: 14.6%
+Very Late deliveries: 6,286 orders
+👉 Strong possibility: Late deliveries causing low ratings
+Example:
+Some reviews say:
+
+"Não chegou meu produto"
+"Nada de chegar o meu pedido"
+
+Means product didn't arrive or was delayed.
+
+🔎 Seller Quality Check
+Top bad review sellers:
+7c67e1448b00... → 402 bad reviews
+4a3ca9315b74... → 392 bad reviews
+6560211a19b4... → 361 bad reviews
+These sellers need monitoring.
+🎯 Strategic Recommendations
+1️⃣ Improve Late Delivery Cases
+Focus on the 6,286 very late deliveries.
+2️⃣ Monitor High-Volume Sellers
+High order sellers = high complaint potential.
+3️⃣ Category Optimization
+Invest more in:
+Watches
+Health & Beauty
+Sports
+4️⃣ Customer Service Follow-up
+Auto follow-up emails for:
+Slight Delay
+Late
+Very Late
+
+📌 Final Summary
+✔ Platform performing well overall
+✔ Strong delivery efficiency
+✔ High average rating (4.08)
+⚠ 14% negative reviews need attention
+⚠ Some sellers generating majority complaints
+If you want, I can now:
