@@ -1,7 +1,7 @@
 # E-Commerce Data Analysis
 
 ## 📌 Project Overview
-This repository contains an e-commerce data analysis performed using **SQL and Python** on a dataset sourced from Kaggle. The goal of this project is to analyze customer behaviour, product performance, seller performance, delivery trends, and **major churn reasons** (90% churn detected) in the e-commerce data. :contentReference[oaicite:1]{index=1}
+This repository contains an e-commerce data analysis performed using **SQL and Python** on a dataset sourced from Kaggle. The goal of this project is to analyze customer behaviour, product performance, seller performance, delivery trends, and **major churn reasons** (90% churn detected) in the e-commerce data.
 
 ## 📊 Key Components
 📌 **SQL Queries**  
